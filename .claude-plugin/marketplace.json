@@ -1,0 +1,14 @@
+{
+  "name": "mveCCmarketplace",
+  "owner": {
+    "name": "Matti Ventä"
+  },
+  "plugins": [
+    {
+      "name": "DroneTuning-Plugin",
+      "source": "./DroneTuning",
+      "description": "Tools, commands and agents for drone tuning"
+    
+    }
+  ]
+}

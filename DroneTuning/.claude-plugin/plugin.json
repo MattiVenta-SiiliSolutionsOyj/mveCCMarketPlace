@@ -1,0 +1,8 @@
+{
+    "name": "DroneTuning-Plugin",
+    "version": "1.0.0",
+    "description": "Utils for drone anlyzing and tuning",
+    "author": {
+        "name": "Matti Ventä"
+    }
+}
